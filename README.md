@@ -2,7 +2,7 @@
 
 Oh-my-zsh theme inspired by classyTouch
 
-![classyTouch](classyTouch.png)
+![classyTouch](https://raw.githubusercontent.com/GooseDB/stylishTouch_oh-my-zsh/master/stylishTouch.png)
 
 ## Installation
 
