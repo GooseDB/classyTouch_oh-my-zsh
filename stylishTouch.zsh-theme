@@ -1,6 +1,6 @@
-# ZSH Theme - classyTouch
-# Author: Yaris Alex Gutierrez <yarisgutierrez@gmail.com>
-# Prompt is the Oh-my-zsh version of user Graawr's 'Classy Touch' themes on http://dotshare.it
+# ZSH Theme - stylishTouch
+# Author: GooseDB 
+# Inspired by classyTouch
 
 local current_dir='%{$fg[yellow]%}  %{$reset_color%}%.% %{$fg[black]%} | %{$reset_color%}'
 local git_branch='$(git_prompt_info)%{$reset_color%}'
